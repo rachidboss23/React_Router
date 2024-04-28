@@ -1,0 +1,64 @@
+.navbar-brand {
+  margin-right: 200%
+  }
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5%;
+}
+
+.container {
+  text-align: center;
+}
+
+.titulo_home {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.subtitulo {
+  font-size: 1.0rem; 
+}
+
+.icono_home {
+  font-size: 5rem; 
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  flex-direction: column; 
+}
+
+.title-contact {
+  margin-bottom: 20px; 
+  text-align: center;
+}
+
+form {
+  text-align: left; 
+}
+
+
+.input-small {
+  width: 900px; 
+}
+.label-centered {
+  display: block;
+  text-align: center;
+}
+
+.btn-center {
+  margin-top: 20px; 
+  margin-left: auto; 
+  margin-right: auto; 
+  display: block; 
+  text-align: center;
+}
+
+
+
+
